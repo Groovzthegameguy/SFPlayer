@@ -33,7 +33,7 @@ If you're having trouble finding specific games, you can use the list below to l
 [Kung Fu Panda](https://fpconnect.fisher-price.com/dssupdate/Project208873/PC_Software/KungFuPanda_2.0.0.5.zip)  
 [Mickey Mouse Clubhouse](https://fpconnect.fisher-price.com/dssupdate/Project210362/PC_Software/MickeysClubhouse_2.0.0.10.zip)  
 [Cars 2](https://fpconnect.fisher-price.com/dssupdate/Project211379/PC_Software/Cars2_2.0.0.9.zip)  
-[Toy Story 2](https://fpconnect.fisher-price.com/dssupdate/Project201745/PC_Software/ToyStory_2.0.0.18.zip)  
+[Toy Story 3](https://fpconnect.fisher-price.com/dssupdate/Project201745/PC_Software/ToyStory_2.0.0.18.zip)  
 [Disney Princess](https://fpconnect.fisher-price.com/dssupdate/Project201753/PC_Software/DisneyPrincess_2.0.0.13.zip)  
 [Handy Manny](https://fpconnect.fisher-price.com/dssupdate/Project201761/PC_Software/HandyManny_2.0.0.14.zip)  
 [Batman](https://fpconnect.fisher-price.com/dssupdate/Project201769/PC_Software/Batman_2.0.0.6.zip)  
